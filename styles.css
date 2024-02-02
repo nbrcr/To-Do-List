@@ -1,0 +1,12 @@
+/* ===== BASE SITE CSS START ===== */
+* {
+  box-sizing: border-box;
+  margin: 10px;
+  padding: 10px;
+  font-family: monospace;
+  font-size: xx-large;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.523);
+}
+/* ===== BASE SITE CSS END ===== */
+
